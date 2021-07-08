@@ -1,0 +1,10 @@
+{
+  "name": "tmp.DG3mS3rGWX",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@microsoft/api-extractor": "^7.18.0",
+    "typescript": "^4.3.5"
+  }
+}
